@@ -1,0 +1,36 @@
+# --- R-specific ---
+.Rhistory
+.RData
+.Ruser
+.Rproj.user
+*.Rproj
+
+# --- Data ---
+data/*.csv
+data/*.xlsx
+data/*.rds
+
+# --- Environment & Dependencies ---
+renv/
+packrat/
+*.renv
+*.renv.lock  # Exclude if you want to share renv.lock
+
+# --- Temporary/Log Files ---
+*.tmp
+*.log
+*.bak
+*.aux
+*.out
+*.aux.out
+*.aux.rds
+Rplots.pdf
+
+# --- System Files ---
+.DS_Store
+Thumbs.db
+
+# --- IDE/Editor Files ---
+.vscode/
+.idea/
+*.swp
