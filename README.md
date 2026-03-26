@@ -1,7 +1,5 @@
 # Amazon Sales Dashboard
 
-![Amazon Sales Dashboard Screenshot](https://via.placeholder.com/800x400/0078D4/FFFFFF?text=Amazon+Sales+Dashboard)
-*(Replace this placeholder with a screenshot of your dashboard!)*
 
 An **interactive Shiny dashboard** for analyzing Amazon sales data, including product ratings, prices, and categories.
 This project demonstrates **data cleaning, visualization, and interactive dashboarding** in R.
